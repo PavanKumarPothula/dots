@@ -1,0 +1,36 @@
+{
+    "sources": [
+        {
+            "enabled": true,
+            "name": "Noctalia Plugins",
+            "url": "https://github.com/noctalia-dev/noctalia-plugins"
+        }
+    ],
+    "states": {
+        "battery-and-power-management": {
+            "enabled": true,
+            "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+        },
+        "battery-threshold": {
+            "enabled": true,
+            "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+        },
+        "netbird": {
+            "enabled": true,
+            "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+        },
+        "niri-screensaver": {
+            "enabled": true,
+            "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+        },
+        "privacy-indicator": {
+            "enabled": true,
+            "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+        },
+        "tamagotchi": {
+            "enabled": true,
+            "sourceUrl": "https://github.com/noctalia-dev/noctalia-plugins"
+        }
+    },
+    "version": 2
+}
